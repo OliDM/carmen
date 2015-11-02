@@ -1,0 +1,160 @@
+---
+en:
+  world:
+    pr:
+      '01':
+        name: 'Adjuntas'
+      '02':
+        name: 'Aguada'
+      '03':
+        name: 'Aguadilla'
+      '04':
+        name: 'Aguas Buenas'
+      '05':
+        name: 'Aibonito'
+      '06':
+        name: 'Añasco'
+      '07':
+        name: 'Arecibo'
+      '08':
+        name: 'Arroyo'
+      '09':
+        name: 'Barceloneta'
+      '10':
+        name: 'Barranquitas'
+      '11':
+        name: 'Bayamón'
+      '12':
+        name: 'Cabo Rojo'
+      '13':
+        name: 'Caguas'
+      '14':
+        name: 'Camuy'
+      '15':
+        name: 'Canóvanas'
+      '16':
+        name: 'Carolina'
+      '17':
+        name: 'Cataño'
+      '18':
+        name: 'Cayey'
+      '19':
+        name: 'Ceiba'
+      '20':
+        name: 'Ciales'
+      '21':
+        name: 'Cidra'
+      '22':
+        name: 'Coamo'
+      '23':
+        name: 'Comerío'
+      '24':
+        name: 'Corozal'
+      '25':
+        name: 'Culebra'
+      '26':
+        name: 'Dorado'
+      '27':
+        name: 'Fajardo'
+      '28':
+        name: 'Florida'
+      '29':
+        name: 'Guánica'
+      '30':
+        name: 'Guayama'
+      '31':
+        name: 'Guayanilla'
+      '32':
+        name: 'Guaynabo'
+      '33':
+        name: 'Gurabo'
+      '34':
+        name: 'Hatillo'
+      '35':
+        name: 'Hormigueros'
+      '36':
+        name: 'Humacao'
+      '37':
+        name: 'Isabela'
+      '38':
+        name: 'Jayuya'
+      '39':
+        name: 'Juana Díaz'
+      '40':
+        name: 'Juncos'
+      '41':
+        name: 'Lajas'
+      '42':
+        name: 'Lares'
+      '43':
+        name: 'Las Marías'
+      '44':
+        name: 'Las Piedras'
+      '45':
+        name: 'Loíza'
+      '46':
+        name: 'Luquillo'
+      '47':
+        name: 'Manatí'
+      '48':
+        name: 'Maricao'
+      '49':
+        name: 'Maunabo'
+      '50':
+        name: 'Mayagüez'
+      '51':
+        name: 'Moca'
+      '52':
+        name: 'Morovis'
+      '53':
+        name: 'Naguabo'
+      '54':
+        name: 'Naranjito'
+      '55':
+        name: 'Orocovis'
+      '56':
+        name: 'Patillas'
+      '57':
+        name: 'Peñuelas'
+      '58':
+        name: 'Ponce'
+      '59':
+        name: 'Quebradillas'
+      '60':
+        name: 'Rincón'
+      '61':
+        name: 'Río Grande'
+      '62':
+        name: 'Sabana Grande'
+      '63':
+        name: 'Salinas'
+      '64':
+        name: 'San Germán'
+      '65':
+        name: 'San Juan'
+      '66':
+        name: 'San Lorenzo'
+      '67':
+        name: 'San Sebastián'
+      '68':
+        name: 'Santa Isabel'
+      '69':
+        name: 'Toa Alta'
+      '70':
+        name: 'Toa Baja'
+      '71':
+        name: 'Trujillo Alto'
+      '72':
+        name: 'Utuado'
+      '73':
+        name: 'Vega Alta'
+      '74':
+        name: 'Vega Baja'
+      '75':
+        name: 'Vieques'
+      '76':
+        name: 'Villalba'
+      '77':
+        name: 'Yabucoa'
+      '78':
+        name: 'Yauco'
